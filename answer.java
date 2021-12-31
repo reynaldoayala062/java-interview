@@ -41,7 +41,7 @@ public class Answer {
 
 
 
-// Tha gain for giving me the chance to interview with you. I'll be honest
-// my experties falls under javascript and react.js and this is my first time
-// writing Java. I'm open to learning java and mastering any skill you will
-// require of me to excel in my job. I wish you the best and Happy New Years.
+// Thanks again for giving me the chance to interview with you. I'll be honest
+// my experties falls under javascript and react.js but I had a lot of fun 
+// with this project. I'm open to learning java and mastering any skill you will
+// require of me to excel at my job. I wish you the best and Happy New Years.
